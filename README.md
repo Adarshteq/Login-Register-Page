@@ -6,11 +6,13 @@ This UI can be used as a frontend for authentication systems.
 
 Login View
 
-![Screenshot 2025-05-21 215916](https://github.com/user-attachments/assets/079738be-dc37-4e59-9e49-24b62f403498)
+![Screenshot 2025-05-21 215916](https://github.com/user-attachments/assets/65f7f81f-c675-4961-aeb3-02646b37fbd4)
+
 
 Register View
 
-![Screenshot 2025-05-21 215935](https://github.com/user-attachments/assets/42088fe6-a4b4-4222-a495-7dafb699b3dc)
+![Screenshot 2025-05-21 215935](https://github.com/user-attachments/assets/f551d012-5500-4d93-94e1-5046a318e3bb)
+
 
 
 ## 🚀 Features
